@@ -1,6 +1,6 @@
 # AI Ticket Assistant
 
-A modern, AI-powered ticket management system that automatically analyzes, prioritizes, and assigns support tickets using intelligent automation and machine learning.
+A modern, AI-powered ticket management system that automatically analyzes, prioritizes, and assigns support tickets using AI.
 
 ## 🚀 Features
 
